@@ -1,0 +1,17 @@
+.container-header{
+    min-height: 80px;
+    background-color: rgb(190, 201, 180);
+    display: flex;
+  justify-content: space-between;
+}
+
+img{
+    height: 100px;
+    
+    
+}
+
+.espaco-paragraf{
+    display: flex;
+
+}

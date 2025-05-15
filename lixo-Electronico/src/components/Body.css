@@ -1,0 +1,40 @@
+.container-body{
+    min-height: calc(100vh - 80px);
+     background-color: rgb(36, 175, 43);  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.espaco-login{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: brown; */
+   height: 500px;
+    width: 320px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+input{
+    height: 40px;
+    width: 250px;
+}
+
+button{
+     height: 40px;
+    width: 250px;
+   
+}
+
+label{
+    position: relative;
+    left: -100px;
+    bottom: -25px;
+    font-size: 20px;
+    
+}
+
+
